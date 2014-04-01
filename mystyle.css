@@ -1,4 +1,3 @@
-
 #wrapper {
     width: 100%;
     margin: 10px 0px 10px 0px;
@@ -28,11 +27,11 @@ header {
 .article-header {
         background: #6B90D4;
           width: 85px;
-    font-size: 30px;
-    float: center;
-    text-align: center;
+    font-size: 45px;
+   
+ 
     height: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 70px;
     margin-left: 300px;
 }
 
@@ -57,6 +56,9 @@ aside {
 article {
     font-family:"Arial",Verdana,Sans-serif;
     border: 0px solid #000000; 
+     font-size: 20px;
+   
+    
   background: #6B90D4;
     width: 75%;
     height: 600px;
@@ -67,13 +69,20 @@ article {
     color:#052A6E;
 }
 
-.page-footer {
-   clear:left;
-    text-align:left
-        
+
+.article-footer {
     
+    float: center;
 }
 
+
+
+footer {
+    font-family:"Arial",Verdana,Sans-serif;
+    font-color:#052A6E;
+   
+   
+}
 .aside-list {
  margin-left: 400px;   
 }
@@ -85,9 +94,10 @@ footer {
 }
 
 aside {
+     background-color:#052A6E;
     float: center;
     display: inline;
-    margin-left:
+    
 }
  
 li {
