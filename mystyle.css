@@ -108,12 +108,13 @@ aside {
     display: inline;
     
 }
- 
+
+/* 
 li {
  display: inline;   
  float:left;    
 }
-
+*/
 
 a {
 display:block;
@@ -137,4 +138,4 @@ padding:0;
 form {
  float:center;   
 }
-}
+
