@@ -69,6 +69,7 @@ article {
     float:center;
     color:#052A6E;
 }
+
 article.padding
 {
 padding-top:20px;
@@ -95,7 +96,7 @@ footer {
 .aside-list {
  margin-left: 400px;   
 }
-}
+
 footer {
     clear:left;
     text-align:center;
@@ -124,15 +125,11 @@ color: #6B90D4;
 
 }
 
-ul
-{
-    
-font-size: 30px;
-list-style-type:none;
-margin:0px;
-padding:0;
-  
-    
+ul {
+    font-size: 30px;
+    list-style-type:none;
+    margin:0px;
+    padding:0;
 }
 
 form {
