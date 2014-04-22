@@ -9,7 +9,7 @@
     border: none;
 }
 
-header {
+header.main {
      font-family:"Arial",Verdana,Sans-serif;
     font-size: 50px;
     margin:0px 5px 0px 18px;
@@ -19,10 +19,6 @@ header {
     text-align: center;
    background: #4577D4;
     color: #1047A9;
-
-    
-   
-    
 }
 
 .article-header {
@@ -40,9 +36,8 @@ header {
 nav {
     display: inline;
     background: #dddddd;
-    /*width: 100%;
-    text-align: center;*/
-    margin:0 auto;
+    width: 100%;
+    text-align: center;
     font-family:"Arial",Verdana,Sans-serif;
     
 }
