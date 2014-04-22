@@ -34,12 +34,15 @@ header.main {
 
 
 nav {
-    display: inline;
     background: #dddddd;
     width: 100%;
     text-align: center;
     font-family:"Arial",Verdana,Sans-serif;
     
+}
+
+nav li {
+    display: inline;
 }
 
 aside {
