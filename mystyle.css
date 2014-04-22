@@ -41,7 +41,8 @@ nav {
     display: inline;
     background: #dddddd;
     width: 100%;
-    text-align: center;
+    /*text-align: center;*/
+    margin:0 auto;
     font-family:"Arial",Verdana,Sans-serif;
     
 }
