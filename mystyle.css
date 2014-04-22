@@ -34,12 +34,15 @@ header.main {
 
 
 nav {
-    display: inline;
     background: #dddddd;
     width: 100%;
     text-align: center;
     font-family:"Arial",Verdana,Sans-serif;
     
+}
+
+nav li {
+    display: inline;
 }
 
 aside {
@@ -66,6 +69,7 @@ article {
     float:center;
     color:#052A6E;
 }
+
 article.padding
 {
 padding-top:20px;
@@ -92,7 +96,7 @@ footer {
 .aside-list {
  margin-left: 400px;   
 }
-}
+
 footer {
     clear:left;
     text-align:center;
@@ -105,12 +109,13 @@ aside {
     display: inline;
     
 }
- 
+
+/* 
 li {
  display: inline;   
  float:left;    
 }
-
+*/
 
 a {
 display:block;
@@ -120,18 +125,14 @@ color: #6B90D4;
 
 }
 
-ul
-{
-    
-font-size: 30px;
-list-style-type:none;
-margin:0px;
-padding:0;
-  
-    
+ul {
+    font-size: 30px;
+    list-style-type:none;
+    margin:0px;
+    padding:0;
 }
 
 form {
  float:center;   
 }
-}
+
