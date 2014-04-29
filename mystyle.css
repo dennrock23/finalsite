@@ -38,7 +38,6 @@ header.main {
 nav {
     background: #dddddd;
     font-family:"Arial", Verdana, Sans-Serif;
-    padding:10px;
     background-color:#052A6E;
 }
 
@@ -69,18 +68,18 @@ article {
     width: 75%;
     height: 100%;
     padding: 0px;
-    margin-left:20px;
-    padding left: 0px;
-    clear:left;
+
     color:#052A6E;
 }
 
+/*
 article.padding {
     padding-top:20px;
     padding-bottom:20px;
     padding-right:50px;
     padding-left:50px;
 }
+*/
 
 .article-footer {
 
