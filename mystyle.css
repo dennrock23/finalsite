@@ -1,5 +1,5 @@
 #wrapper {
-    width: 100%;
+    width: 90%;
     height: 100%;
     /*margin: 10px auto 10px auto;*/
     /*  top, right, bottom, left */
@@ -31,6 +31,15 @@ header.main {
     /*margin-left: 200px;*/
 }
 
+
+p {
+    text-align:center;
+    
+}
+
+img {
+    text-align:center;
+}
 
 nav {
     background: #dddddd;
