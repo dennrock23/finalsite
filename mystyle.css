@@ -1,9 +1,9 @@
 #wrapper {
     width: 90%;
     height: 100%;
-    margin: 10px auto 10px auto;
+    /*margin: 10px auto 10px auto;*/
     /*  top, right, bottom, left */
-    
+    text-align:center;
     background: #4577D4;
     border: none;
 }
