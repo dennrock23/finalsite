@@ -45,8 +45,7 @@ nav {
 
 aside {
     background: #052A6E;
-    width: 85%;
-    float: right;
+    width: 100%;
     margin: 400px;
 }
 
@@ -90,7 +89,7 @@ article.padding {
 
 
 .aside-list {
-    margin-left: 400px;   
+    /*margin-left: 400px;   */
 }
 
 footer {
