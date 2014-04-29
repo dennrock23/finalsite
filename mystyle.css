@@ -42,6 +42,10 @@ nav {
 aside {
     /* background: #052A6E;
     width: 100%; */
+     background: #052A6E;
+    width: 100%;
+    float: center;
+    display: inline;
 }
 
 
@@ -81,10 +85,7 @@ article.padding {
 .aside-list {
     /* margin-left: 400px; */
       
-    background: #052A6E;
-    width: 100%;
-    float: center;
-    display: inline;
+
 }
 
 footer {
@@ -114,7 +115,8 @@ nav ul, aside ul {
     background-color:#052A6E;
 }
 
+
 form {
-  
+    display: inline;  
 }
 
