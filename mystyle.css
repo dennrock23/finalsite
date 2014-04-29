@@ -25,7 +25,7 @@ header.main {
     background: #6B90D4;
     width: 85px;
     font-size: 35px;
- 
+    text-align:center;
     height: 40px;
     margin-bottom: 20px;
     /*margin-left: 200px;*/
@@ -62,7 +62,7 @@ article {
     text-align:left;
     
     background: #6B90D4;
-    width: 500px;
+    width: 800px;
     height: 100%;
     padding: 0px;
     margin: 10px auto;
