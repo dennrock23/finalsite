@@ -40,17 +40,12 @@ nav {
 
 
 aside {
-    background: #052A6E;
-    width: 100%;
+    /* background: #052A6E;
+    width: 100%; */
 }
 
 
-aside {
 
-    float: center;
-    display: inline;
-    
-}
 
 
 article {
@@ -84,7 +79,12 @@ article.padding {
 
 
 .aside-list {
-    /*margin-left: 400px;   */
+    /* margin-left: 400px; */
+      
+    background: #052A6E;
+    width: 100%;
+    float: center;
+    display: inline;
 }
 
 footer {
