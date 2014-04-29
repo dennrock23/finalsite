@@ -99,19 +99,19 @@ footer {
 }
 
 
-nav ul li {
+nav ul li, aside ul li {
     display: inline;   
     padding-right:20px;
 }
 
-nav ul a {
+nav ul a, aside ul a {
     /*display:block;*/
     width:175px;
     background-color:#052A6E;
     color: #6B90D4;
 }
 
-nav ul {
+nav ul, aside ul {
     font-size: 30px;
     list-style-type:none;
      margin: 10px auto;
