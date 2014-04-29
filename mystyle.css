@@ -108,7 +108,7 @@ li {
 }
 
 a {
-    display:block;
+    /*display:block;*/
     width:175px;
     background-color:#052A6E;
     color: #6B90D4;
@@ -117,11 +117,11 @@ a {
 ul {
     font-size: 30px;
     list-style-type:none;
-    margin:0px;
+    margin:0;
     padding:0;
 }
 
 form {
- float:center;   
+  
 }
 
