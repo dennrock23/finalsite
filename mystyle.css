@@ -37,8 +37,9 @@ header.main {
 
 nav {
     background: #dddddd;
-    font-family:"Arial",Verdana,Sans-serif;
-    padding: 30px;
+    font-family:"Arial", Verdana, Sans-Serif;
+    padding:10px;
+    background-color:#052A6E;
 }
 
 
@@ -98,29 +99,24 @@ footer {
     color:#052A6E;
 }
 
-ul.nav {
-    margin: 10px auto;
-}
 
-
-li {
+nav ul li {
     display: inline;   
     float:left;   
     padding-right:20px;
 }
 
-a {
+nav ul a {
     /*display:block;*/
     width:175px;
     background-color:#052A6E;
     color: #6B90D4;
 }
 
-ul {
+nav ul {
     font-size: 30px;
     list-style-type:none;
-    margin:0;
-    padding:0;
+     margin: 10px auto;
     background-color:#052A6E;
 }
 
