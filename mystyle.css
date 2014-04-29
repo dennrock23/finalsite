@@ -32,6 +32,15 @@ header.main {
 }
 
 
+p {
+    text-align:center;
+    
+}
+
+img {
+    text-align:center;
+}
+
 nav {
     background: #dddddd;
     font-family:"Arial", Verdana, Sans-Serif;
